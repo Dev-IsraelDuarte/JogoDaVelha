@@ -3,7 +3,7 @@
 Este é um projeto de **Jogo da Velha** desenvolvido em **C#** utilizando **Windows Forms**. O projeto implementa a lógica clássica do jogo com suporte para um modo contra o computador (Bot).
 
 <div align="center">
-  <img src="./Captura%20de%20tela%202026-04-27%20071057.png" alt="Interface do Jogo da Velha" width="600px">
+  <img src="./Captura%20de%20tela%202026-04-27%20071057.png" alt="Interface do Jogo da Velha" width="400px">
 </div>
 
 <br />
